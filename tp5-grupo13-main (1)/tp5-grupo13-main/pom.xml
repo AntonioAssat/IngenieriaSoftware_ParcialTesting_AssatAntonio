@@ -85,5 +85,5 @@
             </plugin>
         </plugins>
     </build>
-    <name>plantilla-tp5-junit5</name>
+    <name>plantilla-parcialD-junit5</name>
 </project>
